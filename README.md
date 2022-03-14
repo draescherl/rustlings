@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-111-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-118-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # rustlings 🦀❤️
@@ -16,6 +16,7 @@ Alternatively, for a first-time Rust learner, there are several other resources:
 ## Getting Started
 
 _Note: If you're on MacOS, make sure you've installed Xcode and its developer tools by typing `xcode-select --install`._
+_Note: If you're on Linux, make sure you've installed gcc. Deb: `sudo apt install gcc`. Yum: `sudo yum -y install gcc`._
 
 You will need to have Rust installed. You can get it by visiting https://rustup.rs. This'll also install Cargo, Rust's package/project manager.
 
@@ -315,6 +316,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/EmisonLu"><img src="https://avatars.githubusercontent.com/u/54395432?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zhenghao Lu</b></sub></a><br /><a href="#content-EmisonLu" title="Content">🖋</a></td>
     <td align="center"><a href="https://soundtrackyourbrand.com"><img src="https://avatars.githubusercontent.com/u/762956?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fredrik Enestad</b></sub></a><br /><a href="#content-fredr" title="Content">🖋</a></td>
     <td align="center"><a href="http://xuesong.pydevops.com"><img src="https://avatars.githubusercontent.com/u/18476085?v=4?s=100" width="100px;" alt=""/><br /><sub><b>xuesong</b></sub></a><br /><a href="#content-xuesongbj" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/MpdWalsh"><img src="https://avatars.githubusercontent.com/u/48160144?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Walsh</b></sub></a><br /><a href="https://github.com/rust-lang/rustlings/commits?author=MpdWalsh" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/alirezaghey"><img src="https://avatars.githubusercontent.com/u/26653424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>alirezaghey</b></sub></a><br /><a href="#content-alirezaghey" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/frvannes16"><img src="https://avatars.githubusercontent.com/u/3188475?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Franklin van Nes</b></sub></a><br /><a href="https://github.com/rust-lang/rustlings/commits?author=frvannes16" title="Code">💻</a></td>
+    <td align="center"><a href="https://nekonako.github.io"><img src="https://avatars.githubusercontent.com/u/46141275?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nekonako</b></sub></a><br /><a href="https://github.com/rust-lang/rustlings/commits?author=nekonako" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/tan-zx"><img src="https://avatars.githubusercontent.com/u/67887489?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ZX</b></sub></a><br /><a href="#content-tan-zx" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/sundevilyang"><img src="https://avatars.githubusercontent.com/u/1499214?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yang Wen</b></sub></a><br /><a href="#content-sundevilyang" title="Content">🖋</a></td>
+    <td align="center"><a href="https://brandon-high.com"><img src="https://avatars.githubusercontent.com/u/759848?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brandon High</b></sub></a><br /><a href="https://github.com/rust-lang/rustlings/commits?author=highb" title="Documentation">📖</a></td>
   </tr>
 </table>
 
